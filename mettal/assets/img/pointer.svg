@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="20px" height="20px" viewBox="0 0 20 20" version="1.1">
+<g id="surface1">
+<rect x="0" y="0" width="20" height="20" style="fill:rgb(94.117647%,94.117647%,94.117647%);fill-opacity:1;stroke:none;"/>
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(89.019608%,89.019608%,89.019608%);fill-opacity:1;" d="M 6 6 L 14 6 L 14 14 L 6 14 Z M 6 6 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(94.509804%,94.509804%,94.509804%);fill-opacity:1;" d="M 8 8 L 12 8 L 12 12 L 8 12 Z M 8 8 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(89.019608%,89.019608%,89.019608%);fill-opacity:1;" d="M 16 0 L 20 0 L 20 4 L 16 4 Z M 16 0 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(89.019608%,89.019608%,89.019608%);fill-opacity:1;" d="M 16 0 L 20 0 L 20 4 L 16 4 Z M 0 0 L 4 0 L 4 4 L 0 4 Z M 0 0 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(89.019608%,89.019608%,89.019608%);fill-opacity:1;" d="M 0 0 L 4 0 L 4 4 L 0 4 Z M 0 16 L 4 16 L 4 20 L 0 20 Z M 0 16 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(89.019608%,89.019608%,89.019608%);fill-opacity:1;" d="M 0 16 L 4 16 L 4 20 L 0 20 Z M 16 16 L 20 16 L 20 20 L 16 20 Z M 16 16 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(89.019608%,89.019608%,89.019608%);fill-opacity:1;" d="M 16 16 L 20 16 L 20 20 L 16 20 Z M 16 16 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(94.117647%,94.117647%,94.117647%);fill-opacity:1;" d="M 0 0 L 2 0 L 2 2 L 0 2 Z M 18 0 L 20 0 L 20 2 L 18 2 Z M 18 18 L 20 18 L 20 20 L 18 20 Z M 0 18 L 2 18 L 2 20 L 0 20 Z M 0 18 "/>
+</g>
+</svg>
