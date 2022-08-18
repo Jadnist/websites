@@ -1,0 +1,57 @@
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@700&display=swap');
+.card-ws{
+  height: 400px;
+  display: inline-block;
+  overflow: hidden;
+}
+.full-size{
+  display: block;
+  height: 100%;
+  width: 100%;
+  display: inline-block;
+  overflow: hidden;
+}
+.zooming{
+  transform: scale(1.3);
+  transition: 0.9s;
+  display: inline-block;
+  overflow: hidden;
+
+}
+.zooming:hover{
+  transform: scale(1);
+}
+.cacal-6r{
+  width: 45%;
+  margin-right: 5%;
+}
+.cacal-6l{
+  width: 45%;
+  margin-left: 5%;
+}
+.super-text{
+  position: relative;
+  bottom:400px;
+  font-family: 'Comfortaa', cursive;
+  font-size: 30px;
+  transition: .2s;
+}
+.blaschka{
+  position: relative;
+  bottom:120px;
+  right: -130px;
+  font-family: 'Comfortaa', cursive;
+  font-size: 15px;
+  transition: .5s;
+  background-color:#4374AF;
+  float: right;
+  width: 130px;
+  height: 27px;
+  padding-top: 4px;
+}
+.card-ws:hover .super-text{
+  opacity: 0;
+}
+.card-ws:hover .blaschka{
+  right: 0px;
+}
